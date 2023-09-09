@@ -1,2 +1,2 @@
-CREATE database 
-'hbtn_0c_0'
+--creating database hbtn_0c_0
+CREATE database 'hbtn_0c_0'
