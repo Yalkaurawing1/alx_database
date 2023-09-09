@@ -1,3 +1,6 @@
 -- script to list all tables in my database server 
 
-SHOW * tables in mysql;
+USE hbtn_test_db_0;
+
+
+SHOW  TABLES;
