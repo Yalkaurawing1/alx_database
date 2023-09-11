@@ -1,4 +1,4 @@
---description of first table 
+-- description of first table 
 USE hbtn_test_db_5;
 
-SELECT * FROM first_table;
+SHOW CREATE TABLE first_table;
