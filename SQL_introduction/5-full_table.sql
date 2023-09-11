@@ -1,3 +1,5 @@
+--description of first table 
+
 USE hbtn_0c_0;
 
-SHOW TABLES;
+SHOW first_table;
