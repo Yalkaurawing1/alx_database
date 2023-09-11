@@ -1,3 +1,5 @@
---script that deleting the database hbtn_0c_0 in my  MySQL server.
+-- a script that creates the database hbtn_0c_0 in your MySQL server.
 
-DROP DATABASE hbtn_0c_0;
+DROP DATABASE IF EXISTS hbtn_0c_0;
+
+CREATE SCHEMA hbtn_0c_0;
