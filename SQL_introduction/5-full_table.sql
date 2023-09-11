@@ -1,5 +1,4 @@
 --description of first table 
+USE hbtn_test_db_5;
 
-USE hbtn_0c_0;
-
-SHOW CREATE TABLE first_table;
+SHOW first_table;
