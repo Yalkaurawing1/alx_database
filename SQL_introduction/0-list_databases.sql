@@ -1,6 +1,6 @@
 
 SHOW databases;
 -- this query will show all the database available
-USE holbaton;
+USE holbteron_db;
 --this to get into kauradb
-DESCRIBE students;
+DESCRIBE tables;
